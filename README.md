@@ -1,13 +1,9 @@
-- 👋 Hi, I’m Mohammadreza Ghadiri
-- 👀 I’m interested in Web Design
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ( Telegram : @Gh_Mamadreza - IG : https://www.instagram.com/gh_mamadreza/ - Email : ghmamadreza84@gmai.com )
+<h1 align="center">
+  <br>
+  Mohammadreza Ghadiri (Gh_Mamadreza)
+</h1>
 
-<!---
-GhMamadreza84/GhMamadreza84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My expertise
 <p>
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,3 +14,15 @@ You can click the Preview link to take a look at your changes.
   
 
 </p>
+
+## About Me
+<!---
+GhMamadreza84/GhMamadreza84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+- 👋 Hi, I’m Mohammadreza Ghadiri
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning Java Script
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ( Telegram : @Gh_Mamadreza - IG : https://www.instagram.com/gh_mamadreza/ - Email : ghmamadreza84@gmai.com )
