@@ -1,6 +1,7 @@
 <h1 align="center">
   <br>
-  Mohammadreza Ghadiri (Gh_Mamadreza)
+   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+  Hi there, I'm Mohammadreza
 </h1>
 
 ## My expertise
