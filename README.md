@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Mohammadreza Ghadiri
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
 - 🥋🏆 🇯🇵 𝕂𝕪𝕠𝕜𝕦𝕤𝕙𝕚𝕟 𝕂𝕒𝕣𝕒𝕥𝕖 𝕡𝕝𝕒𝕪𝕖𝕣 🇯🇵
 ## My social networks
 <a href="https://www.instagram.com/gh_mamadreza">
