@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Mohammadreza Ghadiri
 - 👀 I’m interested in Web Design
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Java Script ( React )
 
 ## My expertise
 <p>
