@@ -39,3 +39,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://t.me/Gh_Mamadreza">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/mohammadreza-ghadiri-490ba0296/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
