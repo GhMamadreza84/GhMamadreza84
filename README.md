@@ -1,7 +1,9 @@
+<h3 align="center"> 
+    
+**`Front-End Developer`**
+</h3>
 <h1 align="center">
-  <br>
-   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-  Hi there, I'm Mohammadreza
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Ankur+Ram.;Nice+to+meet+you+👋" />
 </h1>
 
 
