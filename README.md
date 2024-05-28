@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👀 I’m interested in Web Design
-- 🌱 I’m currently learning Java Script ( React )
+- 🌱 I’m currently learning ( React )
 
 ## My expertise
 <p>
