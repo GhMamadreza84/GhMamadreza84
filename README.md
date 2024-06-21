@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />  
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+<img alt="GraphQl" src="https://img.shields.io/badge/GraphQl-black.svg?style=for-the-badge&logo=graphql&logoColor=white" />
 
 </p>
 
