@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
 <img alt="GraphQl" src="https://img.shields.io/badge/GraphQl-%2320232a.svg?style=for-the-badge&logo=graphql&logoColor=white" />
+<img alt="MUI" src="https://img.shields.io/badge/MUI-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=white" />
 
 </p>
 
