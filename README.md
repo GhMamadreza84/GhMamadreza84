@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👀 I’m interested in Web Design
+- 💻 I am always learning and I love this job and its challenges
 
 ## My expertise
 <p>
