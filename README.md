@@ -1,8 +1,8 @@
-<h3 align="center" style="display:flex;justify-content:center;flex-direction:column;align-items:center"> 
+<div align="center"> 
    <h1> GhMamadreza | محمدرضا قدیری </h1>
    
 **`Front-End Developer`**
-</h3>
+</div>
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi!+I'm+Mohammadreza+Ghadiri.;Nice+to+meet+you+👋" />
 </h2>
