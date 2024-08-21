@@ -1,4 +1,4 @@
-<h3 align="center"> 
+<h3 align="center" style="display:flex;justify-content:center;flex-direction:column;align-items:center"> 
    <h1> GhMamadreza | محمدرضا قدیری </h1>
    
 **`Front-End Developer`**
