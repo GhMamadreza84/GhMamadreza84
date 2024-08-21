@@ -1,6 +1,4 @@
-<div align="center"> 
-   <h1> GhMamadreza | محمدرضا قدیری </h1>
-   
+<div align="center">
 **`Front-End Developer`**
 </div>
 <h2 align="center">
