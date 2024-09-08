@@ -25,6 +25,11 @@
   </li>
 </ul>
 
+
+</br>
+</br>
+
+
 <p>
   <img
     alt="react"
@@ -63,7 +68,9 @@
     src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
   />
 </p>
-## My social networks
+
+## **My Social Network**
+
 <a href="https://www.linkedin.com/in/mohammadreza-ghadiri-490ba0296/">
   <img
     alt="Linkedin"
