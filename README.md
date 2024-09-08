@@ -1,14 +1,30 @@
-<div align="center">**`Front-End Developer`**</div>
+<div align="center">
+  
+  **`Front-End Developer`**
+  
+  </div>
 
 <h2 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi!+I'm+Mohammadreza+Ghadiri.;Nice+to+meet+you+👋"
   />
 </h2>
+
+
 ## **About Me**
+
+
 <!--- GhMamadreza84/GhMamadreza84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
-- 👀 I’m interested in Web Design - 💻 I am always learning and I love this job
-and its challenges ## My expertise
+
+<ul>
+  <li>💻 Web design addict, constantly hitting "refresh" on my skills!</li>
+
+  <li>
+    🏆 On a mission to find top-tier companies and unlock my full potential in
+    the tech world!
+  </li>
+</ul>
+
 <p>
   <img
     alt="react"
