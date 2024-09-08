@@ -30,6 +30,9 @@
 </br>
 
 
+## **My Skills**
+
+
 <p>
   <img
     alt="react"
