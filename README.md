@@ -20,8 +20,7 @@
   <li>💻 Web design addict, constantly hitting "refresh" on my skills!</li>
 
   <li>
-    🏆 On a mission to find top-tier companies and unlock my full potential in
-    the tech world!
+    💡 Continuously growing my skill set and seeking new challenges to create a big impact in the world of web development!
   </li>
 </ul>
 
