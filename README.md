@@ -93,3 +93,9 @@
 <p align="center">
   <img width="1000" src="assets/github-snake.svg" alt="snake" />
 </p>
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
