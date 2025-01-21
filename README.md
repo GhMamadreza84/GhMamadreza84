@@ -50,7 +50,7 @@
   />
   <img
     alt="GraphQl"
-    src="https://img.shields.io/badge/GraphQl-%2320232a.svg?style=for-the-badge&logo=graphql&logoColor=#F25CC0"
+    src="https://img.shields.io/badge/GraphQl-%2320232a.svg?style=for-the-badge&logo=graphql&logoColor=white"
   />
   <img
     alt="Git"
