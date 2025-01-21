@@ -64,10 +64,10 @@
     alt="HTML5"
     src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
   />
-  <img
+<!--   <img
     alt="WordPress"
     src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
-  />
+  /> -->
 </p>
 
 ## **My Social Network**
