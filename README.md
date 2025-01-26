@@ -20,7 +20,7 @@
   <li>💻 Web design addict, constantly hitting "refresh" on my skills!</li>
 
   <li>
-    💡  Continuously growing my skill set and seeking new challenges to create a big impact in the world of web development !!
+    💡 Continuously growing my skill set and seeking new challenges to create a big impact in the world of web development !!
   </li>
 </ul>
 
