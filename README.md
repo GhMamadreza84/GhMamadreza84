@@ -77,7 +77,7 @@
     alt="typescript"
     src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB"
   />
-
+<img src="https://i.gifer.com/ZZ5H.gif" alt="Loading..." />
 </p>
 
 ## **My Social Network**
